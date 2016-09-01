@@ -86,6 +86,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA,"                                                             \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "\"miss\":%uA,"                                                            \
     "\"bypass\":%uA,"                                                          \
     "\"expired\":%uA,"                                                         \
@@ -105,6 +144,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA,"                                                             \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "\"miss\":%uA,"                                                            \
     "\"bypass\":%uA,"                                                          \
     "\"expired\":%uA,"                                                         \
@@ -126,6 +204,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA"                                                              \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "},"                                                                       \
     "\"overCounts\":{"                                                         \
     "\"maxIntegerSize\":%s,"                                                   \
@@ -137,6 +254,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA"                                                              \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "}"                                                                        \
     "},"
 #endif
@@ -154,6 +310,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA"                                                              \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "},"                                                                       \
     "\"responseMsec\":%M,"                                                     \
     "\"weight\":%ui,"                                                          \
@@ -171,6 +366,45 @@
     "\"3xx\":%uA,"                                                             \
     "\"4xx\":%uA,"                                                             \
     "\"5xx\":%uA"                                                              \
+    "\"100\":%uA,"                                                             \
+    "\"101\":%uA,"                                                             \
+    "\"200\":%uA,"                                                             \
+    "\"201\":%uA,"                                                             \
+    "\"202\":%uA,"                                                             \
+    "\"203\":%uA,"                                                             \
+    "\"204\":%uA,"                                                             \
+    "\"205\":%uA,"                                                             \
+    "\"206\":%uA,"                                                             \
+    "\"300\":%uA,"                                                             \
+    "\"301\":%uA,"                                                             \
+    "\"302\":%uA,"                                                             \
+    "\"303\":%uA,"                                                             \
+    "\"304\":%uA,"                                                             \
+    "\"305\":%uA,"                                                             \
+    "\"307\":%uA,"                                                             \
+    "\"400\":%uA,"                                                             \
+    "\"401\":%uA,"                                                             \
+    "\"403\":%uA,"                                                             \
+    "\"404\":%uA,"                                                             \
+    "\"405\":%uA,"                                                             \
+    "\"406\":%uA,"                                                             \
+    "\"407\":%uA,"                                                             \
+    "\"408\":%uA,"                                                             \
+    "\"409\":%uA,"                                                             \
+    "\"410\":%uA,"                                                             \
+    "\"411\":%uA,"                                                             \
+    "\"412\":%uA,"                                                             \
+    "\"413\":%uA,"                                                             \
+    "\"414\":%uA,"                                                             \
+    "\"415\":%uA,"                                                             \
+    "\"416\":%uA,"                                                             \
+    "\"417\":%uA,"                                                             \
+    "\"500\":%uA,"                                                             \
+    "\"501\":%uA,"                                                             \
+    "\"502\":%uA,"                                                             \
+    "\"503\":%uA,"                                                             \
+    "\"504\":%uA,"                                                             \
+    "\"505\":%uA,"                                                             \
     "}"                                                                        \
     "},"
 
@@ -208,6 +442,47 @@
 #endif
 
 #define ngx_http_vhost_traffic_status_add_rc(s, n) {                           \
+    switch(s){                                                                 \
+    case 100 :n->stat_100_counter++;break;                                     \
+    case 101 :n->stat_101_counter++;break;                                     \
+    case 200 :n->stat_200_counter++;break;                                     \
+    case 201 :n->stat_201_counter++;break;                                     \
+    case 202 :n->stat_202_counter++;break;                                     \
+    case 203 :n->stat_203_counter++;break;                                     \
+    case 204 :n->stat_204_counter++;break;                                     \
+    case 205 :n->stat_205_counter++;break;                                     \
+    case 206 :n->stat_206_counter++;break;                                     \
+    case 300 :n->stat_300_counter++;break;                                     \
+    case 301 :n->stat_301_counter++;break;                                     \
+    case 302 :n->stat_302_counter++;break;                                     \
+    case 303 :n->stat_303_counter++;break;                                     \
+    case 304 :n->stat_304_counter++;break;                                     \
+    case 305 :n->stat_305_counter++;break;                                     \
+    case 307 :n->stat_307_counter++;break;                                     \
+    case 400 :n->stat_400_counter++;break;                                     \
+    case 401 :n->stat_401_counter++;break;                                     \
+    case 403 :n->stat_403_counter++;break;                                     \
+    case 404 :n->stat_404_counter++;break;                                     \
+    case 405 :n->stat_405_counter++;break;                                     \
+    case 406 :n->stat_406_counter++;break;                                     \
+    case 407 :n->stat_407_counter++;break;                                     \
+    case 408 :n->stat_408_counter++;break;                                     \
+    case 409 :n->stat_409_counter++;break;                                     \
+    case 410 :n->stat_410_counter++;break;                                     \
+    case 411 :n->stat_411_counter++;break;                                     \
+    case 412 :n->stat_412_counter++;break;                                     \
+    case 413 :n->stat_413_counter++;break;                                     \
+    case 414 :n->stat_414_counter++;break;                                     \
+    case 415 :n->stat_415_counter++;break;                                     \
+    case 416 :n->stat_416_counter++;break;                                     \
+    case 417 :n->stat_417_counter++;break;                                     \
+    case 500 :n->stat_500_counter++;break;                                     \
+    case 501 :n->stat_501_counter++;break;                                     \
+    case 502 :n->stat_502_counter++;break;                                     \
+    case 503 :n->stat_503_counter++;break;                                     \
+    case 504 :n->stat_504_counter++;break;                                     \
+    case 505 :n->stat_505_counter++;break;                                     \
+    }                                                                          \
     if(s < 200) {n->stat_1xx_counter++;}                                       \
     else if(s < 300) {n->stat_2xx_counter++;}                                  \
     else if(s < 400) {n->stat_3xx_counter++;}                                  \
@@ -284,6 +559,47 @@
     if (o->stat_5xx_counter > c->stat_5xx_counter) {                           \
         c->stat_5xx_counter_oc++;                                              \
     }                                                                          \
+                                                                               \
+    if (o->stat_100_counter > c->stat_100_counter) { c->stat_100_counter_oc++; }         \
+    if (o->stat_101_counter > c->stat_101_counter) { c->stat_101_counter_oc++; }         \
+    if (o->stat_200_counter > c->stat_200_counter) { c->stat_200_counter_oc++; }         \
+    if (o->stat_201_counter > c->stat_201_counter) { c->stat_201_counter_oc++; }         \
+    if (o->stat_202_counter > c->stat_202_counter) { c->stat_202_counter_oc++; }         \
+    if (o->stat_203_counter > c->stat_203_counter) { c->stat_203_counter_oc++; }         \
+    if (o->stat_204_counter > c->stat_204_counter) { c->stat_204_counter_oc++; }         \
+    if (o->stat_205_counter > c->stat_205_counter) { c->stat_205_counter_oc++; }         \
+    if (o->stat_206_counter > c->stat_206_counter) { c->stat_206_counter_oc++; }         \
+    if (o->stat_300_counter > c->stat_300_counter) { c->stat_300_counter_oc++; }         \
+    if (o->stat_301_counter > c->stat_301_counter) { c->stat_301_counter_oc++; }         \
+    if (o->stat_302_counter > c->stat_302_counter) { c->stat_302_counter_oc++; }         \
+    if (o->stat_303_counter > c->stat_303_counter) { c->stat_303_counter_oc++; }         \
+    if (o->stat_304_counter > c->stat_304_counter) { c->stat_304_counter_oc++; }         \
+    if (o->stat_305_counter > c->stat_305_counter) { c->stat_305_counter_oc++; }         \
+    if (o->stat_307_counter > c->stat_307_counter) { c->stat_307_counter_oc++; }         \
+    if (o->stat_400_counter > c->stat_400_counter) { c->stat_400_counter_oc++; }         \
+    if (o->stat_401_counter > c->stat_401_counter) { c->stat_401_counter_oc++; }         \
+    if (o->stat_403_counter > c->stat_403_counter) { c->stat_403_counter_oc++; }         \
+    if (o->stat_404_counter > c->stat_404_counter) { c->stat_404_counter_oc++; }         \
+    if (o->stat_405_counter > c->stat_405_counter) { c->stat_405_counter_oc++; }         \
+    if (o->stat_406_counter > c->stat_406_counter) { c->stat_406_counter_oc++; }         \
+    if (o->stat_407_counter > c->stat_407_counter) { c->stat_407_counter_oc++; }         \
+    if (o->stat_408_counter > c->stat_408_counter) { c->stat_408_counter_oc++; }         \
+    if (o->stat_409_counter > c->stat_409_counter) { c->stat_409_counter_oc++; }         \
+    if (o->stat_410_counter > c->stat_410_counter) { c->stat_410_counter_oc++; }         \
+    if (o->stat_411_counter > c->stat_411_counter) { c->stat_411_counter_oc++; }         \
+    if (o->stat_412_counter > c->stat_412_counter) { c->stat_412_counter_oc++; }         \
+    if (o->stat_413_counter > c->stat_413_counter) { c->stat_413_counter_oc++; }         \
+    if (o->stat_414_counter > c->stat_414_counter) { c->stat_414_counter_oc++; }         \
+    if (o->stat_415_counter > c->stat_415_counter) { c->stat_415_counter_oc++; }         \
+    if (o->stat_416_counter > c->stat_416_counter) { c->stat_416_counter_oc++; }         \
+    if (o->stat_417_counter > c->stat_417_counter) { c->stat_417_counter_oc++; }         \
+    if (o->stat_500_counter > c->stat_500_counter) { c->stat_500_counter_oc++; }         \
+    if (o->stat_501_counter > c->stat_501_counter) { c->stat_501_counter_oc++; }         \
+    if (o->stat_502_counter > c->stat_502_counter) { c->stat_502_counter_oc++; }         \
+    if (o->stat_503_counter > c->stat_503_counter) { c->stat_503_counter_oc++; }         \
+    if (o->stat_504_counter > c->stat_504_counter) { c->stat_504_counter_oc++; }         \
+    if (o->stat_505_counter > c->stat_505_counter) { c->stat_505_counter_oc++; }         \
+                                                                               \
     if (o->stat_cache_miss_counter > c->stat_cache_miss_counter) {             \
         c->stat_cache_miss_counter_oc++;                                       \
     }                                                                          \
@@ -336,6 +652,47 @@
     if (o->stat_5xx_counter > c->stat_5xx_counter) {                           \
         c->stat_5xx_counter_oc++;                                              \
     }                                                                          \
+                                                                               \
+    if (o->stat_100_counter > c->stat_100_counter) { c->stat_100_counter_oc++; }         \
+    if (o->stat_101_counter > c->stat_101_counter) { c->stat_101_counter_oc++; }         \
+    if (o->stat_200_counter > c->stat_200_counter) { c->stat_200_counter_oc++; }         \
+    if (o->stat_201_counter > c->stat_201_counter) { c->stat_201_counter_oc++; }         \
+    if (o->stat_202_counter > c->stat_202_counter) { c->stat_202_counter_oc++; }         \
+    if (o->stat_203_counter > c->stat_203_counter) { c->stat_203_counter_oc++; }         \
+    if (o->stat_204_counter > c->stat_204_counter) { c->stat_204_counter_oc++; }         \
+    if (o->stat_205_counter > c->stat_205_counter) { c->stat_205_counter_oc++; }         \
+    if (o->stat_206_counter > c->stat_206_counter) { c->stat_206_counter_oc++; }         \
+    if (o->stat_300_counter > c->stat_300_counter) { c->stat_300_counter_oc++; }         \
+    if (o->stat_301_counter > c->stat_301_counter) { c->stat_301_counter_oc++; }         \
+    if (o->stat_302_counter > c->stat_302_counter) { c->stat_302_counter_oc++; }         \
+    if (o->stat_303_counter > c->stat_303_counter) { c->stat_303_counter_oc++; }         \
+    if (o->stat_304_counter > c->stat_304_counter) { c->stat_304_counter_oc++; }         \
+    if (o->stat_305_counter > c->stat_305_counter) { c->stat_305_counter_oc++; }         \
+    if (o->stat_307_counter > c->stat_307_counter) { c->stat_307_counter_oc++; }         \
+    if (o->stat_400_counter > c->stat_400_counter) { c->stat_400_counter_oc++; }         \
+    if (o->stat_401_counter > c->stat_401_counter) { c->stat_401_counter_oc++; }         \
+    if (o->stat_403_counter > c->stat_403_counter) { c->stat_403_counter_oc++; }         \
+    if (o->stat_404_counter > c->stat_404_counter) { c->stat_404_counter_oc++; }         \
+    if (o->stat_405_counter > c->stat_405_counter) { c->stat_405_counter_oc++; }         \
+    if (o->stat_406_counter > c->stat_406_counter) { c->stat_406_counter_oc++; }         \
+    if (o->stat_407_counter > c->stat_407_counter) { c->stat_407_counter_oc++; }         \
+    if (o->stat_408_counter > c->stat_408_counter) { c->stat_408_counter_oc++; }         \
+    if (o->stat_409_counter > c->stat_409_counter) { c->stat_409_counter_oc++; }         \
+    if (o->stat_410_counter > c->stat_410_counter) { c->stat_410_counter_oc++; }         \
+    if (o->stat_411_counter > c->stat_411_counter) { c->stat_411_counter_oc++; }         \
+    if (o->stat_412_counter > c->stat_412_counter) { c->stat_412_counter_oc++; }         \
+    if (o->stat_413_counter > c->stat_413_counter) { c->stat_413_counter_oc++; }         \
+    if (o->stat_414_counter > c->stat_414_counter) { c->stat_414_counter_oc++; }         \
+    if (o->stat_415_counter > c->stat_415_counter) { c->stat_415_counter_oc++; }         \
+    if (o->stat_416_counter > c->stat_416_counter) { c->stat_416_counter_oc++; }         \
+    if (o->stat_417_counter > c->stat_417_counter) { c->stat_417_counter_oc++; }         \
+    if (o->stat_500_counter > c->stat_500_counter) { c->stat_500_counter_oc++; }         \
+    if (o->stat_501_counter > c->stat_501_counter) { c->stat_501_counter_oc++; }         \
+    if (o->stat_502_counter > c->stat_502_counter) { c->stat_502_counter_oc++; }         \
+    if (o->stat_503_counter > c->stat_503_counter) { c->stat_503_counter_oc++; }         \
+    if (o->stat_504_counter > c->stat_504_counter) { c->stat_504_counter_oc++; }         \
+    if (o->stat_505_counter > c->stat_505_counter) { c->stat_505_counter_oc++; }         \
+                                                                               \
 }
 #endif
 
@@ -452,6 +809,46 @@ typedef struct {
     ngx_atomic_t                                     stat_4xx_counter;
     ngx_atomic_t                                     stat_5xx_counter;
 
+    ngx_atomic_t                                     stat_100_counter;
+    ngx_atomic_t                                     stat_101_counter;
+    ngx_atomic_t                                     stat_200_counter;
+    ngx_atomic_t                                     stat_201_counter;
+    ngx_atomic_t                                     stat_202_counter;
+    ngx_atomic_t                                     stat_203_counter;
+    ngx_atomic_t                                     stat_204_counter;
+    ngx_atomic_t                                     stat_205_counter;
+    ngx_atomic_t                                     stat_206_counter;
+    ngx_atomic_t                                     stat_300_counter;
+    ngx_atomic_t                                     stat_301_counter;
+    ngx_atomic_t                                     stat_302_counter;
+    ngx_atomic_t                                     stat_303_counter;
+    ngx_atomic_t                                     stat_304_counter;
+    ngx_atomic_t                                     stat_305_counter;
+    ngx_atomic_t                                     stat_307_counter;
+    ngx_atomic_t                                     stat_400_counter;
+    ngx_atomic_t                                     stat_401_counter;
+    ngx_atomic_t                                     stat_403_counter;
+    ngx_atomic_t                                     stat_404_counter;
+    ngx_atomic_t                                     stat_405_counter;
+    ngx_atomic_t                                     stat_406_counter;
+    ngx_atomic_t                                     stat_407_counter;
+    ngx_atomic_t                                     stat_408_counter;
+    ngx_atomic_t                                     stat_409_counter;
+    ngx_atomic_t                                     stat_410_counter;
+    ngx_atomic_t                                     stat_411_counter;
+    ngx_atomic_t                                     stat_412_counter;
+    ngx_atomic_t                                     stat_413_counter;
+    ngx_atomic_t                                     stat_414_counter;
+    ngx_atomic_t                                     stat_415_counter;
+    ngx_atomic_t                                     stat_416_counter;
+    ngx_atomic_t                                     stat_417_counter;
+    ngx_atomic_t                                     stat_500_counter;
+    ngx_atomic_t                                     stat_501_counter;
+    ngx_atomic_t                                     stat_502_counter;
+    ngx_atomic_t                                     stat_503_counter;
+    ngx_atomic_t                                     stat_504_counter;
+    ngx_atomic_t                                     stat_505_counter;
+
     /* deals with the overflow of variables */
     ngx_atomic_t                                     stat_request_counter_oc;
     ngx_atomic_t                                     stat_in_bytes_oc;
@@ -461,6 +858,46 @@ typedef struct {
     ngx_atomic_t                                     stat_3xx_counter_oc;
     ngx_atomic_t                                     stat_4xx_counter_oc;
     ngx_atomic_t                                     stat_5xx_counter_oc;
+
+    ngx_atomic_t                                     stat_100_counter_oc;
+    ngx_atomic_t                                     stat_101_counter_oc;
+    ngx_atomic_t                                     stat_200_counter_oc;
+    ngx_atomic_t                                     stat_201_counter_oc;
+    ngx_atomic_t                                     stat_202_counter_oc;
+    ngx_atomic_t                                     stat_203_counter_oc;
+    ngx_atomic_t                                     stat_204_counter_oc;
+    ngx_atomic_t                                     stat_205_counter_oc;
+    ngx_atomic_t                                     stat_206_counter_oc;
+    ngx_atomic_t                                     stat_300_counter_oc;
+    ngx_atomic_t                                     stat_301_counter_oc;
+    ngx_atomic_t                                     stat_302_counter_oc;
+    ngx_atomic_t                                     stat_303_counter_oc;
+    ngx_atomic_t                                     stat_304_counter_oc;
+    ngx_atomic_t                                     stat_305_counter_oc;
+    ngx_atomic_t                                     stat_307_counter_oc;
+    ngx_atomic_t                                     stat_400_counter_oc;
+    ngx_atomic_t                                     stat_401_counter_oc;
+    ngx_atomic_t                                     stat_403_counter_oc;
+    ngx_atomic_t                                     stat_404_counter_oc;
+    ngx_atomic_t                                     stat_405_counter_oc;
+    ngx_atomic_t                                     stat_406_counter_oc;
+    ngx_atomic_t                                     stat_407_counter_oc;
+    ngx_atomic_t                                     stat_408_counter_oc;
+    ngx_atomic_t                                     stat_409_counter_oc;
+    ngx_atomic_t                                     stat_410_counter_oc;
+    ngx_atomic_t                                     stat_411_counter_oc;
+    ngx_atomic_t                                     stat_412_counter_oc;
+    ngx_atomic_t                                     stat_413_counter_oc;
+    ngx_atomic_t                                     stat_414_counter_oc;
+    ngx_atomic_t                                     stat_415_counter_oc;
+    ngx_atomic_t                                     stat_416_counter_oc;
+    ngx_atomic_t                                     stat_417_counter_oc;
+    ngx_atomic_t                                     stat_500_counter_oc;
+    ngx_atomic_t                                     stat_501_counter_oc;
+    ngx_atomic_t                                     stat_502_counter_oc;
+    ngx_atomic_t                                     stat_503_counter_oc;
+    ngx_atomic_t                                     stat_504_counter_oc;
+    ngx_atomic_t                                     stat_505_counter_oc;
 
 #if (NGX_HTTP_CACHE)
     ngx_atomic_t                                     stat_cache_max_size;
@@ -888,6 +1325,46 @@ static ngx_http_variable_t  ngx_http_vhost_traffic_status_vars[] = {
       ngx_http_vhost_traffic_status_node_variable,
       offsetof(ngx_http_vhost_traffic_status_node_t, stat_5xx_counter),
       NGX_HTTP_VAR_NOCACHEABLE, 0 },
+
+    { ngx_string("vts_100_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_100_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_101_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_101_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_200_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_200_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_201_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_201_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_202_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_202_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_203_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_203_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_204_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_204_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_205_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_205_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_206_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_206_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_300_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_300_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_301_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_301_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_302_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_302_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_303_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_303_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_304_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_304_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_305_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_305_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_307_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_307_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_400_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_400_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_401_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_401_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_403_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_403_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_404_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_404_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_405_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_405_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_406_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_406_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_407_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_407_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_408_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_408_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_409_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_409_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_410_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_410_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_411_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_411_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_412_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_412_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_413_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_413_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_414_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_414_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_415_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_415_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_416_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_416_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_417_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_417_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_500_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_500_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_501_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_501_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_502_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_502_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_503_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_503_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_504_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_504_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
+    { ngx_string("vts_505_counter"), NULL, ngx_http_vhost_traffic_status_node_variable, offsetof(ngx_http_vhost_traffic_status_node_t, stat_505_counter), NGX_HTTP_VAR_NOCACHEABLE, 0 },
 
 #if (NGX_HTTP_CACHE)
     { ngx_string("vts_cache_miss_counter"), NULL,
@@ -1800,6 +2277,47 @@ ngx_http_vhost_traffic_status_node_member(ngx_http_vhost_traffic_status_node_t *
     {
         return vtsn->stat_5xx_counter;
     }
+
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "100") == 0) { return vtsn->stat_100_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "101") == 0) { return vtsn->stat_101_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "200") == 0) { return vtsn->stat_200_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "201") == 0) { return vtsn->stat_201_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "202") == 0) { return vtsn->stat_202_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "203") == 0) { return vtsn->stat_203_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "204") == 0) { return vtsn->stat_204_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "205") == 0) { return vtsn->stat_205_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "206") == 0) { return vtsn->stat_206_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "300") == 0) { return vtsn->stat_300_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "301") == 0) { return vtsn->stat_301_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "302") == 0) { return vtsn->stat_302_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "303") == 0) { return vtsn->stat_303_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "304") == 0) { return vtsn->stat_304_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "305") == 0) { return vtsn->stat_305_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "307") == 0) { return vtsn->stat_307_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "400") == 0) { return vtsn->stat_400_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "401") == 0) { return vtsn->stat_401_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "403") == 0) { return vtsn->stat_403_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "404") == 0) { return vtsn->stat_404_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "405") == 0) { return vtsn->stat_405_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "406") == 0) { return vtsn->stat_406_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "407") == 0) { return vtsn->stat_407_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "408") == 0) { return vtsn->stat_408_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "409") == 0) { return vtsn->stat_409_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "410") == 0) { return vtsn->stat_410_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "411") == 0) { return vtsn->stat_411_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "412") == 0) { return vtsn->stat_412_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "413") == 0) { return vtsn->stat_413_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "414") == 0) { return vtsn->stat_414_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "415") == 0) { return vtsn->stat_415_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "416") == 0) { return vtsn->stat_416_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "417") == 0) { return vtsn->stat_417_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "500") == 0) { return vtsn->stat_500_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "501") == 0) { return vtsn->stat_501_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "502") == 0) { return vtsn->stat_502_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "503") == 0) { return vtsn->stat_503_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "504") == 0) { return vtsn->stat_504_counter; }
+    else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "505") == 0) { return vtsn->stat_505_counter; }
+
     else if (ngx_http_vhost_traffic_status_node_member_cmp(member, "cache_miss") == 0)
     {
         return vtsn->stat_cache_miss_counter;
@@ -2466,6 +2984,46 @@ ngx_http_vhost_traffic_status_node_zero(ngx_http_vhost_traffic_status_node_t *vt
     vtsn->stat_4xx_counter = 0;
     vtsn->stat_5xx_counter = 0;
 
+    vtsn->stat_100_counter = 0;
+    vtsn->stat_101_counter = 0;
+    vtsn->stat_200_counter = 0;
+    vtsn->stat_201_counter = 0;
+    vtsn->stat_202_counter = 0;
+    vtsn->stat_203_counter = 0;
+    vtsn->stat_204_counter = 0;
+    vtsn->stat_205_counter = 0;
+    vtsn->stat_206_counter = 0;
+    vtsn->stat_300_counter = 0;
+    vtsn->stat_301_counter = 0;
+    vtsn->stat_302_counter = 0;
+    vtsn->stat_303_counter = 0;
+    vtsn->stat_304_counter = 0;
+    vtsn->stat_305_counter = 0;
+    vtsn->stat_307_counter = 0;
+    vtsn->stat_400_counter = 0;
+    vtsn->stat_401_counter = 0;
+    vtsn->stat_403_counter = 0;
+    vtsn->stat_404_counter = 0;
+    vtsn->stat_405_counter = 0;
+    vtsn->stat_406_counter = 0;
+    vtsn->stat_407_counter = 0;
+    vtsn->stat_408_counter = 0;
+    vtsn->stat_409_counter = 0;
+    vtsn->stat_410_counter = 0;
+    vtsn->stat_411_counter = 0;
+    vtsn->stat_412_counter = 0;
+    vtsn->stat_413_counter = 0;
+    vtsn->stat_414_counter = 0;
+    vtsn->stat_415_counter = 0;
+    vtsn->stat_416_counter = 0;
+    vtsn->stat_417_counter = 0;
+    vtsn->stat_500_counter = 0;
+    vtsn->stat_501_counter = 0;
+    vtsn->stat_502_counter = 0;
+    vtsn->stat_503_counter = 0;
+    vtsn->stat_504_counter = 0;
+    vtsn->stat_505_counter = 0;
+
     vtsn->stat_request_counter_oc = 0;
     vtsn->stat_in_bytes_oc = 0;
     vtsn->stat_out_bytes_oc = 0;
@@ -2474,6 +3032,46 @@ ngx_http_vhost_traffic_status_node_zero(ngx_http_vhost_traffic_status_node_t *vt
     vtsn->stat_3xx_counter_oc = 0;
     vtsn->stat_4xx_counter_oc = 0;
     vtsn->stat_5xx_counter_oc = 0;
+
+    vtsn->stat_100_counter_oc = 0;
+    vtsn->stat_101_counter_oc = 0;
+    vtsn->stat_200_counter_oc = 0;
+    vtsn->stat_201_counter_oc = 0;
+    vtsn->stat_202_counter_oc = 0;
+    vtsn->stat_203_counter_oc = 0;
+    vtsn->stat_204_counter_oc = 0;
+    vtsn->stat_205_counter_oc = 0;
+    vtsn->stat_206_counter_oc = 0;
+    vtsn->stat_300_counter_oc = 0;
+    vtsn->stat_301_counter_oc = 0;
+    vtsn->stat_302_counter_oc = 0;
+    vtsn->stat_303_counter_oc = 0;
+    vtsn->stat_304_counter_oc = 0;
+    vtsn->stat_305_counter_oc = 0;
+    vtsn->stat_307_counter_oc = 0;
+    vtsn->stat_400_counter_oc = 0;
+    vtsn->stat_401_counter_oc = 0;
+    vtsn->stat_403_counter_oc = 0;
+    vtsn->stat_404_counter_oc = 0;
+    vtsn->stat_405_counter_oc = 0;
+    vtsn->stat_406_counter_oc = 0;
+    vtsn->stat_407_counter_oc = 0;
+    vtsn->stat_408_counter_oc = 0;
+    vtsn->stat_409_counter_oc = 0;
+    vtsn->stat_410_counter_oc = 0;
+    vtsn->stat_411_counter_oc = 0;
+    vtsn->stat_412_counter_oc = 0;
+    vtsn->stat_413_counter_oc = 0;
+    vtsn->stat_414_counter_oc = 0;
+    vtsn->stat_415_counter_oc = 0;
+    vtsn->stat_416_counter_oc = 0;
+    vtsn->stat_417_counter_oc = 0;
+    vtsn->stat_500_counter_oc = 0;
+    vtsn->stat_501_counter_oc = 0;
+    vtsn->stat_502_counter_oc = 0;
+    vtsn->stat_503_counter_oc = 0;
+    vtsn->stat_504_counter_oc = 0;
+    vtsn->stat_505_counter_oc = 0;
 
 #if (NGX_HTTP_CACHE)
     vtsn->stat_cache_miss_counter = 0;
@@ -3578,6 +4176,47 @@ ngx_http_vhost_traffic_status_display_set_server_node(
                       vtsn->stat_3xx_counter,
                       vtsn->stat_4xx_counter,
                       vtsn->stat_5xx_counter,
+
+                      vtsn->stat_100_counter,
+                      vtsn->stat_101_counter,
+                      vtsn->stat_200_counter,
+                      vtsn->stat_201_counter,
+                      vtsn->stat_202_counter,
+                      vtsn->stat_203_counter,
+                      vtsn->stat_204_counter,
+                      vtsn->stat_205_counter,
+                      vtsn->stat_206_counter,
+                      vtsn->stat_300_counter,
+                      vtsn->stat_301_counter,
+                      vtsn->stat_302_counter,
+                      vtsn->stat_303_counter,
+                      vtsn->stat_304_counter,
+                      vtsn->stat_305_counter,
+                      vtsn->stat_307_counter,
+                      vtsn->stat_400_counter,
+                      vtsn->stat_401_counter,
+                      vtsn->stat_403_counter,
+                      vtsn->stat_404_counter,
+                      vtsn->stat_405_counter,
+                      vtsn->stat_406_counter,
+                      vtsn->stat_407_counter,
+                      vtsn->stat_408_counter,
+                      vtsn->stat_409_counter,
+                      vtsn->stat_410_counter,
+                      vtsn->stat_411_counter,
+                      vtsn->stat_412_counter,
+                      vtsn->stat_413_counter,
+                      vtsn->stat_414_counter,
+                      vtsn->stat_415_counter,
+                      vtsn->stat_416_counter,
+                      vtsn->stat_417_counter,
+                      vtsn->stat_500_counter,
+                      vtsn->stat_501_counter,
+                      vtsn->stat_502_counter,
+                      vtsn->stat_503_counter,
+                      vtsn->stat_504_counter,
+                      vtsn->stat_505_counter,
+
                       vtsn->stat_cache_miss_counter,
                       vtsn->stat_cache_bypass_counter,
                       vtsn->stat_cache_expired_counter,
@@ -3595,6 +4234,46 @@ ngx_http_vhost_traffic_status_display_set_server_node(
                       vtsn->stat_3xx_counter_oc,
                       vtsn->stat_4xx_counter_oc,
                       vtsn->stat_5xx_counter_oc,
+                      vtsn->stat_100_counter_oc,
+                      vtsn->stat_101_counter_oc,
+                      vtsn->stat_200_counter_oc,
+                      vtsn->stat_201_counter_oc,
+                      vtsn->stat_202_counter_oc,
+                      vtsn->stat_203_counter_oc,
+                      vtsn->stat_204_counter_oc,
+                      vtsn->stat_205_counter_oc,
+                      vtsn->stat_206_counter_oc,
+                      vtsn->stat_300_counter_oc,
+                      vtsn->stat_301_counter_oc,
+                      vtsn->stat_302_counter_oc,
+                      vtsn->stat_303_counter_oc,
+                      vtsn->stat_304_counter_oc,
+                      vtsn->stat_305_counter_oc,
+                      vtsn->stat_307_counter_oc,
+                      vtsn->stat_400_counter_oc,
+                      vtsn->stat_401_counter_oc,
+                      vtsn->stat_403_counter_oc,
+                      vtsn->stat_404_counter_oc,
+                      vtsn->stat_405_counter_oc,
+                      vtsn->stat_406_counter_oc,
+                      vtsn->stat_407_counter_oc,
+                      vtsn->stat_408_counter_oc,
+                      vtsn->stat_409_counter_oc,
+                      vtsn->stat_410_counter_oc,
+                      vtsn->stat_411_counter_oc,
+                      vtsn->stat_412_counter_oc,
+                      vtsn->stat_413_counter_oc,
+                      vtsn->stat_414_counter_oc,
+                      vtsn->stat_415_counter_oc,
+                      vtsn->stat_416_counter_oc,
+                      vtsn->stat_417_counter_oc,
+                      vtsn->stat_500_counter_oc,
+                      vtsn->stat_501_counter_oc,
+                      vtsn->stat_502_counter_oc,
+                      vtsn->stat_503_counter_oc,
+                      vtsn->stat_504_counter_oc,
+                      vtsn->stat_505_counter_oc,
+
                       vtsn->stat_cache_miss_counter_oc,
                       vtsn->stat_cache_bypass_counter_oc,
                       vtsn->stat_cache_expired_counter_oc,
@@ -3613,6 +4292,46 @@ ngx_http_vhost_traffic_status_display_set_server_node(
                       vtsn->stat_3xx_counter,
                       vtsn->stat_4xx_counter,
                       vtsn->stat_5xx_counter,
+                      vtsn->stat_100_counter,
+                      vtsn->stat_101_counter,
+                      vtsn->stat_200_counter,
+                      vtsn->stat_201_counter,
+                      vtsn->stat_202_counter,
+                      vtsn->stat_203_counter,
+                      vtsn->stat_204_counter,
+                      vtsn->stat_205_counter,
+                      vtsn->stat_206_counter,
+                      vtsn->stat_300_counter,
+                      vtsn->stat_301_counter,
+                      vtsn->stat_302_counter,
+                      vtsn->stat_303_counter,
+                      vtsn->stat_304_counter,
+                      vtsn->stat_305_counter,
+                      vtsn->stat_307_counter,
+                      vtsn->stat_400_counter,
+                      vtsn->stat_401_counter,
+                      vtsn->stat_403_counter,
+                      vtsn->stat_404_counter,
+                      vtsn->stat_405_counter,
+                      vtsn->stat_406_counter,
+                      vtsn->stat_407_counter,
+                      vtsn->stat_408_counter,
+                      vtsn->stat_409_counter,
+                      vtsn->stat_410_counter,
+                      vtsn->stat_411_counter,
+                      vtsn->stat_412_counter,
+                      vtsn->stat_413_counter,
+                      vtsn->stat_414_counter,
+                      vtsn->stat_415_counter,
+                      vtsn->stat_416_counter,
+                      vtsn->stat_417_counter,
+                      vtsn->stat_500_counter,
+                      vtsn->stat_501_counter,
+                      vtsn->stat_502_counter,
+                      vtsn->stat_503_counter,
+                      vtsn->stat_504_counter,
+                      vtsn->stat_505_counter,
+
                       ngx_http_vhost_traffic_status_max_integer,
                       vtsn->stat_request_counter_oc,
                       vtsn->stat_in_bytes_oc,
@@ -3621,7 +4340,46 @@ ngx_http_vhost_traffic_status_display_set_server_node(
                       vtsn->stat_2xx_counter_oc,
                       vtsn->stat_3xx_counter_oc,
                       vtsn->stat_4xx_counter_oc,
-                      vtsn->stat_5xx_counter_oc);
+                      vtsn->stat_5xx_counter_oc,
+                      vtsn->stat_100_counter_oc,
+                      vtsn->stat_101_counter_oc,
+                      vtsn->stat_200_counter_oc,
+                      vtsn->stat_201_counter_oc,
+                      vtsn->stat_202_counter_oc,
+                      vtsn->stat_203_counter_oc,
+                      vtsn->stat_204_counter_oc,
+                      vtsn->stat_205_counter_oc,
+                      vtsn->stat_206_counter_oc,
+                      vtsn->stat_300_counter_oc,
+                      vtsn->stat_301_counter_oc,
+                      vtsn->stat_302_counter_oc,
+                      vtsn->stat_303_counter_oc,
+                      vtsn->stat_304_counter_oc,
+                      vtsn->stat_305_counter_oc,
+                      vtsn->stat_307_counter_oc,
+                      vtsn->stat_400_counter_oc,
+                      vtsn->stat_401_counter_oc,
+                      vtsn->stat_403_counter_oc,
+                      vtsn->stat_404_counter_oc,
+                      vtsn->stat_405_counter_oc,
+                      vtsn->stat_406_counter_oc,
+                      vtsn->stat_407_counter_oc,
+                      vtsn->stat_408_counter_oc,
+                      vtsn->stat_409_counter_oc,
+                      vtsn->stat_410_counter_oc,
+                      vtsn->stat_411_counter_oc,
+                      vtsn->stat_412_counter_oc,
+                      vtsn->stat_413_counter_oc,
+                      vtsn->stat_414_counter_oc,
+                      vtsn->stat_415_counter_oc,
+                      vtsn->stat_416_counter_oc,
+                      vtsn->stat_417_counter_oc,
+                      vtsn->stat_500_counter_oc,
+                      vtsn->stat_501_counter_oc,
+                      vtsn->stat_502_counter_oc,
+                      vtsn->stat_503_counter_oc,
+                      vtsn->stat_504_counter_oc,
+                      vtsn->stat_505_counter_oc);
 #endif
 
     return buf;
@@ -3662,6 +4420,46 @@ ngx_http_vhost_traffic_status_display_set_server(ngx_http_request_t *r,
             vtscf->stats.stat_4xx_counter += vtsn->stat_4xx_counter;
             vtscf->stats.stat_5xx_counter += vtsn->stat_5xx_counter;
 
+            vtscf->stats.stat_100_counter += vtsn->stat_100_counter;
+            vtscf->stats.stat_101_counter += vtsn->stat_101_counter;
+            vtscf->stats.stat_200_counter += vtsn->stat_200_counter;
+            vtscf->stats.stat_201_counter += vtsn->stat_201_counter;
+            vtscf->stats.stat_202_counter += vtsn->stat_202_counter;
+            vtscf->stats.stat_203_counter += vtsn->stat_203_counter;
+            vtscf->stats.stat_204_counter += vtsn->stat_204_counter;
+            vtscf->stats.stat_205_counter += vtsn->stat_205_counter;
+            vtscf->stats.stat_206_counter += vtsn->stat_206_counter;
+            vtscf->stats.stat_300_counter += vtsn->stat_300_counter;
+            vtscf->stats.stat_301_counter += vtsn->stat_301_counter;
+            vtscf->stats.stat_302_counter += vtsn->stat_302_counter;
+            vtscf->stats.stat_303_counter += vtsn->stat_303_counter;
+            vtscf->stats.stat_304_counter += vtsn->stat_304_counter;
+            vtscf->stats.stat_305_counter += vtsn->stat_305_counter;
+            vtscf->stats.stat_307_counter += vtsn->stat_307_counter;
+            vtscf->stats.stat_400_counter += vtsn->stat_400_counter;
+            vtscf->stats.stat_401_counter += vtsn->stat_401_counter;
+            vtscf->stats.stat_403_counter += vtsn->stat_403_counter;
+            vtscf->stats.stat_404_counter += vtsn->stat_404_counter;
+            vtscf->stats.stat_405_counter += vtsn->stat_405_counter;
+            vtscf->stats.stat_406_counter += vtsn->stat_406_counter;
+            vtscf->stats.stat_407_counter += vtsn->stat_407_counter;
+            vtscf->stats.stat_408_counter += vtsn->stat_408_counter;
+            vtscf->stats.stat_409_counter += vtsn->stat_409_counter;
+            vtscf->stats.stat_410_counter += vtsn->stat_410_counter;
+            vtscf->stats.stat_411_counter += vtsn->stat_411_counter;
+            vtscf->stats.stat_412_counter += vtsn->stat_412_counter;
+            vtscf->stats.stat_413_counter += vtsn->stat_413_counter;
+            vtscf->stats.stat_414_counter += vtsn->stat_414_counter;
+            vtscf->stats.stat_415_counter += vtsn->stat_415_counter;
+            vtscf->stats.stat_416_counter += vtsn->stat_416_counter;
+            vtscf->stats.stat_417_counter += vtsn->stat_417_counter;
+            vtscf->stats.stat_500_counter += vtsn->stat_500_counter;
+            vtscf->stats.stat_501_counter += vtsn->stat_501_counter;
+            vtscf->stats.stat_502_counter += vtsn->stat_502_counter;
+            vtscf->stats.stat_503_counter += vtsn->stat_503_counter;
+            vtscf->stats.stat_504_counter += vtsn->stat_504_counter;
+            vtscf->stats.stat_505_counter += vtsn->stat_505_counter;
+
             vtscf->stats.stat_request_counter_oc += vtsn->stat_request_counter_oc;
             vtscf->stats.stat_in_bytes_oc += vtsn->stat_in_bytes_oc;
             vtscf->stats.stat_out_bytes_oc += vtsn->stat_out_bytes_oc;
@@ -3670,6 +4468,46 @@ ngx_http_vhost_traffic_status_display_set_server(ngx_http_request_t *r,
             vtscf->stats.stat_3xx_counter_oc += vtsn->stat_3xx_counter_oc;
             vtscf->stats.stat_4xx_counter_oc += vtsn->stat_4xx_counter_oc;
             vtscf->stats.stat_5xx_counter_oc += vtsn->stat_5xx_counter_oc;
+            vtscf->stats.stat_100_counter_oc += vtsn->stat_100_counter_oc;
+            vtscf->stats.stat_101_counter_oc += vtsn->stat_101_counter_oc;
+            vtscf->stats.stat_200_counter_oc += vtsn->stat_200_counter_oc;
+            vtscf->stats.stat_201_counter_oc += vtsn->stat_201_counter_oc;
+            vtscf->stats.stat_202_counter_oc += vtsn->stat_202_counter_oc;
+            vtscf->stats.stat_203_counter_oc += vtsn->stat_203_counter_oc;
+            vtscf->stats.stat_204_counter_oc += vtsn->stat_204_counter_oc;
+            vtscf->stats.stat_205_counter_oc += vtsn->stat_205_counter_oc;
+            vtscf->stats.stat_206_counter_oc += vtsn->stat_206_counter_oc;
+            vtscf->stats.stat_300_counter_oc += vtsn->stat_300_counter_oc;
+            vtscf->stats.stat_301_counter_oc += vtsn->stat_301_counter_oc;
+            vtscf->stats.stat_302_counter_oc += vtsn->stat_302_counter_oc;
+            vtscf->stats.stat_303_counter_oc += vtsn->stat_303_counter_oc;
+            vtscf->stats.stat_304_counter_oc += vtsn->stat_304_counter_oc;
+            vtscf->stats.stat_305_counter_oc += vtsn->stat_305_counter_oc;
+            vtscf->stats.stat_307_counter_oc += vtsn->stat_307_counter_oc;
+            vtscf->stats.stat_400_counter_oc += vtsn->stat_400_counter_oc;
+            vtscf->stats.stat_401_counter_oc += vtsn->stat_401_counter_oc;
+            vtscf->stats.stat_403_counter_oc += vtsn->stat_403_counter_oc;
+            vtscf->stats.stat_404_counter_oc += vtsn->stat_404_counter_oc;
+            vtscf->stats.stat_405_counter_oc += vtsn->stat_405_counter_oc;
+            vtscf->stats.stat_406_counter_oc += vtsn->stat_406_counter_oc;
+            vtscf->stats.stat_407_counter_oc += vtsn->stat_407_counter_oc;
+            vtscf->stats.stat_408_counter_oc += vtsn->stat_408_counter_oc;
+            vtscf->stats.stat_409_counter_oc += vtsn->stat_409_counter_oc;
+            vtscf->stats.stat_410_counter_oc += vtsn->stat_410_counter_oc;
+            vtscf->stats.stat_411_counter_oc += vtsn->stat_411_counter_oc;
+            vtscf->stats.stat_412_counter_oc += vtsn->stat_412_counter_oc;
+            vtscf->stats.stat_413_counter_oc += vtsn->stat_413_counter_oc;
+            vtscf->stats.stat_414_counter_oc += vtsn->stat_414_counter_oc;
+            vtscf->stats.stat_415_counter_oc += vtsn->stat_415_counter_oc;
+            vtscf->stats.stat_416_counter_oc += vtsn->stat_416_counter_oc;
+            vtscf->stats.stat_417_counter_oc += vtsn->stat_417_counter_oc;
+            vtscf->stats.stat_500_counter_oc += vtsn->stat_500_counter_oc;
+            vtscf->stats.stat_501_counter_oc += vtsn->stat_501_counter_oc;
+            vtscf->stats.stat_502_counter_oc += vtsn->stat_502_counter_oc;
+            vtscf->stats.stat_503_counter_oc += vtsn->stat_503_counter_oc;
+            vtscf->stats.stat_504_counter_oc += vtsn->stat_504_counter_oc;
+            vtscf->stats.stat_505_counter_oc += vtsn->stat_505_counter_oc;
+
 
 #if (NGX_HTTP_CACHE)
             vtscf->stats.stat_cache_miss_counter +=
@@ -3837,7 +4675,49 @@ ngx_http_vhost_traffic_status_display_set_upstream_node(ngx_http_request_t *r,
                 vtsn->stat_in_bytes, vtsn->stat_out_bytes,
                 vtsn->stat_1xx_counter, vtsn->stat_2xx_counter,
                 vtsn->stat_3xx_counter, vtsn->stat_4xx_counter,
-                vtsn->stat_5xx_counter, vtsn->stat_upstream.rtms,
+                vtsn->stat_5xx_counter,
+
+                vtsn->stat_100_counter,
+                vtsn->stat_101_counter,
+                vtsn->stat_200_counter,
+                vtsn->stat_201_counter,
+                vtsn->stat_202_counter,
+                vtsn->stat_203_counter,
+                vtsn->stat_204_counter,
+                vtsn->stat_205_counter,
+                vtsn->stat_206_counter,
+                vtsn->stat_300_counter,
+                vtsn->stat_301_counter,
+                vtsn->stat_302_counter,
+                vtsn->stat_303_counter,
+                vtsn->stat_304_counter,
+                vtsn->stat_305_counter,
+                vtsn->stat_307_counter,
+                vtsn->stat_400_counter,
+                vtsn->stat_401_counter,
+                vtsn->stat_403_counter,
+                vtsn->stat_404_counter,
+                vtsn->stat_405_counter,
+                vtsn->stat_406_counter,
+                vtsn->stat_407_counter,
+                vtsn->stat_408_counter,
+                vtsn->stat_409_counter,
+                vtsn->stat_410_counter,
+                vtsn->stat_411_counter,
+                vtsn->stat_412_counter,
+                vtsn->stat_413_counter,
+                vtsn->stat_414_counter,
+                vtsn->stat_415_counter,
+                vtsn->stat_416_counter,
+                vtsn->stat_417_counter,
+                vtsn->stat_500_counter,
+                vtsn->stat_501_counter,
+                vtsn->stat_502_counter,
+                vtsn->stat_503_counter,
+                vtsn->stat_504_counter,
+                vtsn->stat_505_counter,
+
+                vtsn->stat_upstream.rtms,
                 us->weight, us->max_fails,
                 us->fail_timeout,
                 ngx_http_vhost_traffic_status_boolean_to_string(us->backup),
@@ -3846,7 +4726,47 @@ ngx_http_vhost_traffic_status_display_set_upstream_node(ngx_http_request_t *r,
                 vtsn->stat_request_counter_oc, vtsn->stat_in_bytes_oc,
                 vtsn->stat_out_bytes_oc, vtsn->stat_1xx_counter_oc,
                 vtsn->stat_2xx_counter_oc, vtsn->stat_3xx_counter_oc,
-                vtsn->stat_4xx_counter_oc, vtsn->stat_5xx_counter_oc);
+                vtsn->stat_4xx_counter_oc, vtsn->stat_5xx_counter_oc,
+
+                vtsn->stat_100_counter_oc,
+                vtsn->stat_101_counter_oc,
+                vtsn->stat_200_counter_oc,
+                vtsn->stat_201_counter_oc,
+                vtsn->stat_202_counter_oc,
+                vtsn->stat_203_counter_oc,
+                vtsn->stat_204_counter_oc,
+                vtsn->stat_205_counter_oc,
+                vtsn->stat_206_counter_oc,
+                vtsn->stat_300_counter_oc,
+                vtsn->stat_301_counter_oc,
+                vtsn->stat_302_counter_oc,
+                vtsn->stat_303_counter_oc,
+                vtsn->stat_304_counter_oc,
+                vtsn->stat_305_counter_oc,
+                vtsn->stat_307_counter_oc,
+                vtsn->stat_400_counter_oc,
+                vtsn->stat_401_counter_oc,
+                vtsn->stat_403_counter_oc,
+                vtsn->stat_404_counter_oc,
+                vtsn->stat_405_counter_oc,
+                vtsn->stat_406_counter_oc,
+                vtsn->stat_407_counter_oc,
+                vtsn->stat_408_counter_oc,
+                vtsn->stat_409_counter_oc,
+                vtsn->stat_410_counter_oc,
+                vtsn->stat_411_counter_oc,
+                vtsn->stat_412_counter_oc,
+                vtsn->stat_413_counter_oc,
+                vtsn->stat_414_counter_oc,
+                vtsn->stat_415_counter_oc,
+                vtsn->stat_416_counter_oc,
+                vtsn->stat_417_counter_oc,
+                vtsn->stat_500_counter_oc,
+                vtsn->stat_501_counter_oc,
+                vtsn->stat_502_counter_oc,
+                vtsn->stat_503_counter_oc,
+                vtsn->stat_504_counter_oc,
+                vtsn->stat_505_counter_oc);
 
     } else {
         buf = ngx_sprintf(buf, NGX_HTTP_VHOST_TRAFFIC_STATUS_JSON_FMT_UPSTREAM,
@@ -3854,7 +4774,47 @@ ngx_http_vhost_traffic_status_display_set_upstream_node(ngx_http_request_t *r,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
-                (ngx_atomic_uint_t) 0, (ngx_msec_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_msec_t) 0,
                 us->weight, us->max_fails,
                 us->fail_timeout,
                 ngx_http_vhost_traffic_status_boolean_to_string(us->backup),
@@ -3863,7 +4823,46 @@ ngx_http_vhost_traffic_status_display_set_upstream_node(ngx_http_request_t *r,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
                 (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
-                (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0);
+                (ngx_atomic_uint_t) 0, (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0,
+                (ngx_atomic_uint_t) 0);
     }
 
     return buf;
@@ -4158,6 +5157,47 @@ static u_char
                       vtsn->stat_3xx_counter_oc,
                       vtsn->stat_4xx_counter_oc,
                       vtsn->stat_5xx_counter_oc,
+
+                      vtsn->stat_100_counter_oc,
+                      vtsn->stat_101_counter_oc,
+                      vtsn->stat_200_counter_oc,
+                      vtsn->stat_201_counter_oc,
+                      vtsn->stat_202_counter_oc,
+                      vtsn->stat_203_counter_oc,
+                      vtsn->stat_204_counter_oc,
+                      vtsn->stat_205_counter_oc,
+                      vtsn->stat_206_counter_oc,
+                      vtsn->stat_300_counter_oc,
+                      vtsn->stat_301_counter_oc,
+                      vtsn->stat_302_counter_oc,
+                      vtsn->stat_303_counter_oc,
+                      vtsn->stat_304_counter_oc,
+                      vtsn->stat_305_counter_oc,
+                      vtsn->stat_307_counter_oc,
+                      vtsn->stat_400_counter_oc,
+                      vtsn->stat_401_counter_oc,
+                      vtsn->stat_403_counter_oc,
+                      vtsn->stat_404_counter_oc,
+                      vtsn->stat_405_counter_oc,
+                      vtsn->stat_406_counter_oc,
+                      vtsn->stat_407_counter_oc,
+                      vtsn->stat_408_counter_oc,
+                      vtsn->stat_409_counter_oc,
+                      vtsn->stat_410_counter_oc,
+                      vtsn->stat_411_counter_oc,
+                      vtsn->stat_412_counter_oc,
+                      vtsn->stat_413_counter_oc,
+                      vtsn->stat_414_counter_oc,
+                      vtsn->stat_415_counter_oc,
+                      vtsn->stat_416_counter_oc,
+                      vtsn->stat_417_counter_oc,
+                      vtsn->stat_500_counter_oc,
+                      vtsn->stat_501_counter_oc,
+                      vtsn->stat_502_counter_oc,
+                      vtsn->stat_503_counter_oc,
+                      vtsn->stat_504_counter_oc,
+                      vtsn->stat_505_counter_oc,
+
                       vtsn->stat_cache_miss_counter_oc,
                       vtsn->stat_cache_bypass_counter_oc,
                       vtsn->stat_cache_expired_counter_oc,
